@@ -1,0 +1,14 @@
+{
+  "name": "testfranework",
+  "version": "1.0.0",
+  "description": "24 alife",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naghma",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.0.19"
+  }
+}
